@@ -1,0 +1,14 @@
+[
+  {
+    "role": "client",
+    "content": "Client opening message: Hi, I found your name online and I'm hoping you can help me sort through some insurance questions. I'm a freelance architect and I'm starting to think about my long-term security. Are you available for a quick call sometime next week?\n"
+  },
+  {
+    "role": "agent",
+    "content": "hii"
+  },
+  {
+    "role": "client",
+    "content": "Hi! Thanks for getting back to me. Next week would be great. I'm pretty flexible, so let me know what days and times work best for you. I'm really trying to figure out what I need to do to protect myself as I get older and self-employment can be a little precarious.\n"
+  }
+]

@@ -4,9 +4,8 @@ This project is a multifunctional GenAI-powered insurance assistant designed for
 
 ---
 
-## 🚀 Live Demo (Optional)
 
-🔗 [Click here to try the hosted app](https://your-streamlit-link.com)
+🔗 [[Click here to try the hosted app](https://field-sales-training-agentant.streamlit.app/)]
 
 ---
 
@@ -70,17 +69,29 @@ The assistant helps:
 
 
 project-root/
+
 │
+
 ├── app.py # Main Streamlit app entry point
+
 ├── utils/
+
 │ ├── gemini_helper.py # API wrapper for Gemini Pro
+
 │ ├── client_profile_parser.py # Extracts structured fields from raw profile
+
 │ ├── training_agent.py # Field sales trainer
+
 │ ├── agent_mode.py # Sales pitch generator
+
 │ ├── risk_assessment.py # Risk level evaluator
+
 │ ├── recommend_products.py # Product recommender
+
 │ └── claim_advisor.py # Claim checklist generator
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 
